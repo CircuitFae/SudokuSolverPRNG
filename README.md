@@ -16,6 +16,9 @@ This is a **simple Sudoku Solver** written in **C++** that:
 ---
 
 ## 📸 Sample Output
-* Output Screen 1 <img src="D:\Sudoku Solver Cpp\images\Output1.png" alt="Output 1"/>
-* Output Screen 2 <img src="D:\Sudoku Solver Cpp\images\Output2.png" alt="Output 2"/>
-* Output Screen 3 <img src="D:\Sudoku Solver Cpp\images\Output3.png" alt="Output 3"/>
+* Output Screen 1 
+![Output 1](https://github.com/CircuitFae/SudokuSolver/blob/main/images/Output1.png)
+* Output Screen 2 
+![Output 2](https://github.com/CircuitFae/SudokuSolver/blob/main/images/Output2.png)
+* Output Screen 3 
+![Output 3](https://github.com/CircuitFae/SudokuSolver/blob/main/images/Output3.png)
