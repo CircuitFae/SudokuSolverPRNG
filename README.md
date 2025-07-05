@@ -18,7 +18,15 @@ This is a **simple Sudoku Solver** written in **C++** that:
 ## 📸 Sample Output
 * Output Screen 1 
 ![Output 1](https://github.com/CircuitFae/SudokuSolver/blob/main/images/Output1.png)
+
+
+
+
 * Output Screen 2 
 ![Output 2](https://github.com/CircuitFae/SudokuSolver/blob/main/images/Output2.png)
+
+
+
+
 * Output Screen 3 
 ![Output 3](https://github.com/CircuitFae/SudokuSolver/blob/main/images/Output3.png)
